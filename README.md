@@ -51,6 +51,7 @@ Decoding Process
 
 
 🖥️ Usage
+
 🔹 Compilation
 gcc encode.c decode.c main.c -o steganography
 
