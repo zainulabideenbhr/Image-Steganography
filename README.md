@@ -69,5 +69,11 @@ gcc encode.c decode.c main.c -o steganography
 - stego.bmp → Image with hidden data
 - output.txt → Extracted secret message
 
+## 📷 Screenshots
 
+### Encoding Process
+![Encoding Screenshot](images/Screenshot%202026-03-03%20130454.png)
+
+### Decoding Process
+![Decoding Screenshot](images/Screenshot%202026-03-03%20130600.png)
 
